@@ -1,0 +1,14 @@
+E:\PROJECTS\OOPFirstPracticalExercise\bin\Debug\net6.0\OOPFirstPracticalExercise.exe
+E:\PROJECTS\OOPFirstPracticalExercise\bin\Debug\net6.0\OOPFirstPracticalExercise.deps.json
+E:\PROJECTS\OOPFirstPracticalExercise\bin\Debug\net6.0\OOPFirstPracticalExercise.runtimeconfig.json
+E:\PROJECTS\OOPFirstPracticalExercise\bin\Debug\net6.0\OOPFirstPracticalExercise.dll
+E:\PROJECTS\OOPFirstPracticalExercise\bin\Debug\net6.0\OOPFirstPracticalExercise.pdb
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.AssemblyInfoInputs.cache
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.AssemblyInfo.cs
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.csproj.CoreCompileInputs.cache
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.dll
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\refint\OOPFirstPracticalExercise.dll
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.pdb
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\OOPFirstPracticalExercise.genruntimeconfig.cache
+E:\PROJECTS\OOPFirstPracticalExercise\obj\Debug\net6.0\ref\OOPFirstPracticalExercise.dll
